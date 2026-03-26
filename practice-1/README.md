@@ -56,7 +56,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат вычисления суммы]
+![Результат вычисления суммы](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/c18bc081892b4e07c30d10fb36875cbf9380836b/practice-1/screenshots/task-1-2-1.png)
 ---
 ## Задание 1.3: Произведение двух чисел
 ### Постановка задачи
