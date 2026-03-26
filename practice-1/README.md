@@ -19,7 +19,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат выполнения Hello с именем](/Users/karinasergeeva/c-projects/practice-1/screenshots/task-1-1)
+![Результат выполнения Hello с именем](practice-1/screenshots/task-1-1.png)
 
 ---
 ## Задание 1.2: Сумма двух чисел
