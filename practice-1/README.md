@@ -3,16 +3,18 @@
 **Группа:** 1зб_ИВТ(ускор.)/25
 **Дата:** 26 марта 2026 г.
 ---
-## Задание 1.1: Hello, World!
+## Задание 1.1: Hello с именем!
 ### Постановка задачи
-Напишите программу, которая выводит на экран сообщение "Hello, World!".
+Напишите программу, которая выводит на экран сообщение "Hello, <имя>. I am learning C programming.".
 ### Список идентификаторов
 | — | — | Переменные не используются |
 ### Код программы
 ```c
 #include <stdio.h>
+
 int main(void) {
-    printf("Hello, World!\n");
+    printf("Hello! My name is Karina.\n");
+    printf("I am learning C programming.\n");
     return 0;
 }
 ```
