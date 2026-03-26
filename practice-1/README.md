@@ -19,7 +19,8 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат выполнения Hello с именем]
+![Результат выполнения Hello с именем](<img width="530" height="93" alt="task-1-1" src="https://github.com/user-attachments/assets/7dfc2dbf-9980-4dc2-9e8f-9dbbd0bcb802" />)
+
 ---
 ## Задание 1.2: Сумма двух чисел
 ### Постановка задачи
