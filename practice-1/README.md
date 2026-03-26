@@ -17,7 +17,9 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат выполнения Hello World] 
+![Результат выполнения Hello World] <img width="537" height="102" alt="screenshots:task-1-1" src="https://github.com/user-attachments/assets/d322165b-85d8-4f0d-bc4a-cfd381f1d1b0" />
+
+
 ---
 ## Задание 1.2: Площадь круга
 ### Постановка задачи
