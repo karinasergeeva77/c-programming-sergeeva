@@ -55,7 +55,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат вычисления]
+![Результат вычисления]([practice-2/screenshots/task-2-1.png](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-1.png))
 ---
 ## Задание 2.2: Чётное или нечётное
 ### Постановка задачи
@@ -88,7 +88,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат]([practice-2/screenshots/task-2-2-1.png](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-2-1.png))(https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-2-2.png)
 ---
 ## Задание 2.3: Максимум из трёх
 ### Постановка задачи
@@ -131,7 +131,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-3.png)
 ---
 ## Задание 2.4: Тип треугольника
 ### Постановка задачи
@@ -180,7 +180,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-4-1.png)(https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-4-4.png)
 ---
 ## Задание 2.5: Квадратное уравнение
 ### Постановка задачи
@@ -245,7 +245,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат] (https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-5-1.png)
 ---
 ## Задание 2.6: Калькулятор
 ### Постановка задачи
@@ -309,7 +309,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-6-1.png)
 ---
 ## Задание 2.7: Високосный год
 ### Постановка задачи
@@ -344,7 +344,7 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-7-1.png)(https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-7-2.png)
 ---
 ## Задание 2.8: Интеграл методом трапеций (e^(x+2))
 ### Постановка задачи
@@ -392,7 +392,7 @@ return 0;
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-8.png)
 ---
 ## Задание 2.9: Интеграл синуса методом трапеций
 ### Постановка задачи
@@ -448,4 +448,4 @@ int main(void) {
 }
 ```
 ### Результаты работы
-![Результат]
+![Результат](https://github.com/karinasergeeva77/c-programming-sergeeva/blob/61183702ba7387d8b3701b425b56db94fbe2c8df/practice-2/screenshots/task-2-9.png)
